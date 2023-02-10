@@ -1,10 +1,6 @@
 # Module_1-Challenge
 # Kickstarting with Excel
 
-# Module_1-Challenge
-# Module_1-Challenge
-# Kickstarting with Excel
-
 ## Overview of Project
 (As captured from Data Bootcamp Module 1.0.2) 
 
@@ -25,16 +21,24 @@ For this analysis, we will determine the number of successful, failed, or cancel
 
 ## Analysis and Challenges
 
- 
-
-
 ### Analysis of Outcomes Based on Launch Date
-Deliverable 1: Analysis of "Outcomes Based on Launch Date Chart"
+# Deliverable 1: Analysis of "Outcomes Based on Launch Date Chart"
 Initially, I provided Louise (my Client) with a visual summary of the data via pivot tables. (See Kickstart File Worksheet tab labeled "Outcomes by Launch Date" and the related chart, "Outcomes by Launch Date.png," which illustrates the following: 
+
 •	The month that launched the most successful Kickstarter campaigns was May. However, January, June, July, and October all had roughly the same number of failed campaigns launched.
 
 ## Overview of all data points for Outcomes by Launch Date 
- 
+![ALL_Outcomes_vs Launch](https://user-images.githubusercontent.com/117233641/218183304-dee56d91-2e39-42c7-b5e1-b815d2bda8f7.png)
+
+Narrowing down to focus to Parent Category "Theater" * due to the Client's interest in the theater data.
+
+In addition, Louise (my Client) would benefit from additional data visualization to see the outcomes of all the categories. As such as the assigned Data Analyst, I need to add visualizations using the same data by creating summary tables, charts, and graphs.
+
+See the Kickstart File Worksheet tab labeled "Theater Outcomes by Launch Date" and the related chart, "Theather_Outcomes_vs_Launch.png," which illustrates the following:
+
+•	By glancing at the data, we can determine that theater is a popular and successful type of campaign overall. Using filters, we can see that theater follows the overall trend: a spike of successful campaigns that began in June but that tapers off by the end of the year. 
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/117233641/218183680-b5ce0488-3702-455e-8c53-ed711c5aa795.png)
 
 
 
