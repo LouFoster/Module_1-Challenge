@@ -40,18 +40,52 @@ See the Kickstart File Worksheet tab labeled "Theater Outcomes by Launch Date" a
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/117233641/218183680-b5ce0488-3702-455e-8c53-ed711c5aa795.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
 
+## Deliverable 2: Analysis of "Outcomes Based on Goals Chart"
+While looking at the theater data as a whole has been helpful, including more data will make my analysis, as Data Analyst, more detailed and thus generate additional insight. Analysis of Outcomes Based on Goals utilizes my Excel skills to help the Client to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
+
+•	See the Kickstart File Worksheet tab labeled "Outcomes Based on Goals" and the related chart, "Outcomes_vs_Goals.png," which illustrates the following:
+
+•	The Goal Range of less than 1000 has the largest percentage of successful "plays." In addition, plays with a Goal Range of 45000 to 49999 had the largest percentage of failed "plays."
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/117233641/218184225-28136fe4-7ccb-49db-8186-aef97c2afaaf.png)
+
 ### Challenges and Difficulties Encountered
+To ensure the accuracy/validation of the data analysis, raw data was filtered to confirm that no canceled plays existed. **(Within Kickstart File, there are several hidden sheets illustrating validation efforts) .
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+##- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+1.	By glancing at the data, we can determine that theater is a popular and successful type of campaign overall. Using filters, we can see that theater follows the overall trend: a spike of successful campaigns that began in June but that tapers off by the end of the year. 
+  •	Viewing the line graph, the key months to launch successful theater projects are May and June, which decline through the end of the year.
 
-- What are some limitations of this dataset?
+2.	Data analysis of summary tables, charts, and graphs also shows there are very few canceled theater projects.
 
-- What are some other possible tables and/or graphs that we could create?
+
+
+##- What can you conclude about the Outcomes based on Goals?
+
+The Goal Range of less than 1000 has the largest percentage of successful "plays." In addition, plays with a Goal Range of 45000 to 49999 had the largest percentage of failed "plays."
+
+
+##- What are some limitations of this dataset?
+
+There is limited data on canceled theater projects, and there were no examples of canceled plays in the subcategories.
+
+
+##- What are some other possible tables and/or graphs that we could create?
+
+As an assigned data analyst for the Client (Louise), I would have suggested Applying Descriptive Statistics to our analysis. Statistics provide an unbiased view of the data. Based on these statistics, we can determine the following:
+
+•	Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns.
+
+•	In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money.
+
+•	 The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
+
+•	The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
+
+•	The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. This stat would indicate that there exist some failed Kickstarters with high goals.
+
