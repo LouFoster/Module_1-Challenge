@@ -30,7 +30,7 @@ Initially, I provided Louise (my Client) with a visual summary of the data via p
 ## Overview of all data points for Outcomes by Launch Date 
 ![ALL_Outcomes_vs Launch](https://user-images.githubusercontent.com/117233641/218183304-dee56d91-2e39-42c7-b5e1-b815d2bda8f7.png)
 
-Narrowing down to focus to Parent Category "Theater" * due to the Client's interest in the theater data.
+# Narrowing down to focus to Parent Category "Theater" * due to the Client's interest in the theater data.
 
 In addition, Louise (my Client) would benefit from additional data visualization to see the outcomes of all the categories. As such as the assigned Data Analyst, I need to add visualizations using the same data by creating summary tables, charts, and graphs.
 
